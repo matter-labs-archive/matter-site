@@ -2,7 +2,7 @@
 ====================
 
 ## How to use
-1. $ git clone -m https://github.com/matterinc/matter-site
+1. $ git clone https://github.com/matterinc/matter-site.git
 2. $ cd matter-site
 3. $ bundle install
 4. $ jekyll serve
