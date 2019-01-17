@@ -1,0 +1,67 @@
+url: https://y7kim.github.io
+baseurl: #something
+
+# Site settings
+title: Matter
+email: hello@thematter.io
+description: "The Matter team presents zk-SNARKs Plasma!"
+
+
+# Team names, titles and social links
+people:
+- name: Petr Korolev
+  pic: 1
+  position: Co-Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/korolevpetr/
+    - title: github
+      url: https://github.com/skywinder
+    - title: twitter
+      url: https://twitter.com/skywinder
+  description: 10+ years experience in enterprise development and architecture for fintech solutions (banking systems, stock exchanges)<br />Worked on information security and protection of personal data.<br />Author and active participant of open source projects<br />MSc in Solid-State Physics,<br />Moscow State University
+
+- name: Alexander Vlasov
+  pic: 2
+  position: Co-Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/alexandr-vlasov-4863404a/
+    - title: github
+      url: https://github.com/shamatar
+    - title: twitter
+      url: https://twitter.com/Shamatar
+  description: 5+ years in software development. Crypto enthusiast and blockchain developer<br />Worked on crypto and zkSNARKs for mobile devices.<br />Has written Plasma from scratch and speed up it to 25k TPS<br />PhD in electrical engineering, McGill University
+
+- name: Alex Gluchowski
+  pic: 3
+  position: Co-Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/gluchowski/
+    - title: github
+      url: https://github.com/gluk64/
+    - title: twitter
+      url: https://twitter.com/gluk64
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/matterinc
+  - title: linkedin
+    url: https://www.linkedin.com/company/thematterio/
+  - title: twitter
+    url: https://twitter.com/TheMatter_io
+  - title: facebook
+    url: https://www.facebook.com/TheMatterInc
+  - title: medium
+    url: https://medium.com/@theMatter_io
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Around the world
+  - line: No kidding
+
+# Build settings
+markdown: kramdown
+permalink: pretty
