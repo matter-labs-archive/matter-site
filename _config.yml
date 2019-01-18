@@ -48,6 +48,11 @@ people:
       url: https://twitter.com/gluk64
   description: 14+ years in software engineering. Passionate about decentralization. Strong expertise in blockchain technologies and fundamental CS.<br />Track record of building 4 successful software companies from scratch. Led teams up to 20 people.<br />MSc in Computer Science,<br />Technical University Berlin
 
+# FIXME: here is a clutch, to align second line of developers
+- name:
+- name:
+#
+
 - name: Konstantin
   pic: 5
   position: Ctryptographer
