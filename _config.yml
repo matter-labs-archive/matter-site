@@ -1,5 +1,8 @@
-url: https://y7kim.github.io
-baseurl: #something
+plugins:
+  - jekyll-feed
+
+url: https://ignis.thematter.io/matter-site/
+baseurl:
 
 # Site settings
 title: Matter
