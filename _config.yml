@@ -49,29 +49,28 @@ people:
   description: 14+ years in software engineering. Passionate about decentralization. Strong expertise in blockchain technologies and fundamental CS.<br />Track record of building 4 successful software companies from scratch. Led teams up to 20 people.<br />MSc in Computer Science,<br />Technical University Berlin
 
 - name: Konstantin
-    pic: 5
-    position: Ctryptographer
-    social:
+  pic: 5
+  position: Ctryptographer
+  social:
     - title: github
-    url: https://github.com/Konstantce
-    description: Worked on symbolic analyzer for x86 binary files and other reverse-engineering tools. Took part in organization of Volga CTF information security competitions.<br />Bachelor degree in information security (Samara State Aerospace University) and MS degree in pure maths (HSE)
+      url: https://github.com/Konstantce/
+  description: Worked on symbolic analyzer for x86 binary files and other reverse-engineering tools. Took part in organization of Volga CTF information security competitions.<br />Bachelor degree in information security (Samara State Aerospace University) and MS degree in pure maths (HSE)
 
 - name: Anton
-    pic: 5
-    position: Developer
-    social:
+  pic: 6
+  position: Developer
+  social:
     - title: github
-    url: https://github.com/BaldyAsh
-    description: 2+ years of software development for scientific purposes (spacecraft), 1 year in mobile projects development from scratch.<br />Worked on mobile blockchain and fintech open source projects.<br />Specialist in Rocket engineering, Bauman Moscow State Technical University
+      url: https://github.com/Konstantce/
+  description: 2+ years of software development for scientific purposes (spacecraft), 1 year in mobile projects development from scratch.<br />Worked on mobile blockchain and fintech open source projects.<br />Specialist in Rocket engineering, Bauman Moscow State Technical University
 
 - name: Irina
-    pic: 4
-    position: QA Engineer
-    social:
+  pic: 4
+  position: QA Engineer
+  social:
     - title: github
-    url: https://github.com/IrKor
-    description: 4+ years in software quality assurance and system analysis.<br />Worked closely with customers and all the team to ensure the quality of the products.<br />MSc in Solid-State Physics,<br />Moscow State University
-
+      url : https://github.com/IrKor/
+  description: 4+ years in software quality assurance and system analysis.<br />Worked closely with customers and all the team to ensure the quality of the products.<br />MSc in Solid-State Physics,<br />Moscow State University
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
